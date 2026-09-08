@@ -216,6 +216,10 @@ I am a **Cybersecurity Engineer & Systems Programmer** dedicated to building res
 
 <div align="center">
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=cyber-atharv&theme=tokyo-night&hide_border=true&area=true" width="96%" />
+
+<br><br>
+
 <img src="https://github-readme-stats.vercel.app/api?username=cyber-atharv&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyber-atharv&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 
@@ -237,4 +241,3 @@ I am a **Cybersecurity Engineer & Systems Programmer** dedicated to building res
 <p><em>Open to security research collaborations, DevSecOps architecture reviews, and high-impact cybersecurity engineering roles.</em></p>
 
 </div>
-
