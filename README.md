@@ -13,176 +13,182 @@
   </a>
 </p>
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00FF66&center=true&vCenter=true&width=700&lines=Building+security+tools;Learning+systems+programming;Exploring+Linux%2C+networks+%26+reverse+engineering;Learning+by+building" />
+
 </div>
 
 ---
 
 ## 👋 About Me
 
-I'm a cybersecurity and systems programming enthusiast who enjoys understanding how things work at a low level.
+I'm interested in cybersecurity and systems programming.
 
-I like building security tools, working with Linux, exploring networks, and learning about how software behaves under the hood.
+I enjoy understanding how things work under the hood and then building
+my own tools to learn from them.
 
-I'm especially interested in:
+Most of my projects are experiments, learning projects, or tools related to
+security and low-level programming.
 
-* 🔐 Cybersecurity
-* 🐧 Linux and systems programming
-* 🔬 Reverse engineering
-* 🌐 Network security
-* ⚙️ eBPF and kernel security
-* 🛠️ Security automation
-* 🤖 Security-related AI/ML
+### 🔍 I'm interested in
 
-Right now, I'm spending most of my time learning, experimenting, and building projects around these areas.
-
----
-
-## 🛠️ Languages & Tools
-
-**Languages**
-
-`Python` `C` `C++` `Rust` `Go` `Zig` `TypeScript` `Bash` `Haskell`
-
-**Security & Systems**
-
-`Linux` `eBPF` `XDP` `PCAP` `TLS` `Reverse Engineering` `Binary Analysis`
-
-**Tools & Technologies**
-
-`FastAPI` `React` `Redis` `PostgreSQL` `Docker` `Git`
+- 🔐 Cybersecurity
+- 🐧 Linux & systems programming
+- 🔬 Reverse engineering
+- 🌐 Network security
+- ⚙️ eBPF & kernel security
+- 🛠️ Security automation
+- 🤖 Security & AI
 
 ---
 
-## 🚀 Some of My Projects
+## 🛠️ Languages & Technologies
 
-### 🔬 [rveng](https://github.com/cyber-atharv/rveng)
+### Languages
 
-A tool I'm building for exploring and analyzing binary files.
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zig-F7A41D?style=flat-square&logo=zig&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
+</p>
 
-It includes things like:
+### Security & Systems
 
-* Disassembly
-* Function detection
-* Cross-references
-* Control-flow graphs
-* Binary analysis
-
-**Built with:** Python, Capstone, FastAPI, React
-
----
-
-### ⚡ [zig-stateless-scanner](https://github.com/cyber-atharv/zig-stateless-scanner)
-
-A high-speed network scanner written in Zig.
-
-I'm using this project to learn more about:
-
-* Raw network packets
-* `AF_PACKET`
-* `AF_XDP`
-* High-performance networking
-* Low-level packet processing
-
-**Built with:** Zig, raw sockets, XDP
+<p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/eBPF-111111?style=flat-square" />
+  <img src="https://img.shields.io/badge/XDP-111111?style=flat-square" />
+  <img src="https://img.shields.io/badge/TLS-326CE5?style=flat-square" />
+  <img src="https://img.shields.io/badge/PCAP-1565C0?style=flat-square" />
+  <img src="https://img.shields.io/badge/Reverse%20Engineering-EF6C00?style=flat-square" />
+</p>
 
 ---
 
-### 🔐 [ja3-ja4-tls-fingerprinting](https://github.com/cyber-atharv/ja3-ja4-tls-fingerprinting)
+# 🚀 Projects
 
-A project for looking at TLS traffic and generating fingerprints such as JA3 and JA4.
+Here are some of the projects I've been working on.
 
-It's mainly an experiment in understanding TLS traffic, PCAP files, and network security.
+<table>
+<tr>
 
-**Built with:** Rust, PCAP, TLS
+<td width="50%" valign="top">
 
----
+### 🔬 rveng
 
-### 🧠 [ai-threat-detection](https://github.com/cyber-atharv/ai-threat-detection)
+<a href="https://github.com/cyber-atharv/rveng">
+  Binary analysis and reverse engineering tool
+</a>
 
-A security project that uses machine learning and rules to detect potentially suspicious activity.
+I'm using this project to learn more about
+disassembly and how binary files work.
 
-It includes event processing, detection logic, and a small security dashboard.
+**Tech:** Python · Capstone · FastAPI · React
 
-**Built with:** Python, FastAPI, Redis, TypeScript
+</td>
 
----
+<td width="50%" valign="top">
 
-### 🐧 [linux-ebpf-security-tracer](https://github.com/cyber-atharv/linux-ebpf-security-tracer)
+### ⚡ zig-stateless-scanner
 
-A Linux security monitoring project using eBPF.
+<a href="https://github.com/cyber-atharv/zig-stateless-scanner">
+  High-speed network scanner written in Zig
+</a>
 
-It monitors system activity and sends events to user space so they can be analyzed.
+A project for learning about raw packets,
+networking, and low-level performance.
 
-**Built with:** C, eBPF, Go, Linux
+**Tech:** Zig · Raw Sockets · XDP
 
----
+</td>
 
-### 🛡️ [api-rate-limiter](https://github.com/cyber-atharv/api-rate-limiter)
+</tr>
 
-A project for protecting APIs from excessive requests and abuse.
+<tr>
 
-It experiments with different rate-limiting algorithms and Redis.
+<td width="50%" valign="top">
 
-**Built with:** Python, FastAPI, Redis
+### 🔐 ja3-ja4-tls-fingerprinting
+
+<a href="https://github.com/cyber-atharv/ja3-ja4-tls-fingerprinting">
+  TLS fingerprinting and network analysis
+</a>
+
+A project for experimenting with TLS traffic,
+PCAP files, and network fingerprints.
+
+**Tech:** Rust · TLS · PCAP
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🧠 ai-threat-detection
+
+<a href="https://github.com/cyber-atharv/ai-threat-detection">
+  Security monitoring using ML and detection rules
+</a>
+
+A project that experiments with detecting
+potentially suspicious activity from events.
+
+**Tech:** Python · FastAPI · Redis · TypeScript
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🐧 linux-ebpf-security-tracer
+
+<a href="https://github.com/cyber-atharv/linux-ebpf-security-tracer">
+  Linux security monitoring with eBPF
+</a>
+
+I'm using this to learn more about Linux,
+kernel events, and system monitoring.
+
+**Tech:** C · eBPF · Go · Linux
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🛡️ api-rate-limiter
+
+<a href="https://github.com/cyber-atharv/api-rate-limiter">
+  API rate limiting and abuse protection
+</a>
+
+A project where I experiment with different
+rate-limiting algorithms and Redis.
+
+**Tech:** Python · FastAPI · Redis
+
+</td>
+
+</tr>
+</table>
 
 ---
 
 ## 📚 What I'm Learning
 
-I'm currently spending time learning more about:
+Right now I'm spending time learning more about:
 
-* Linux internals
-* Networking
-* Reverse engineering
-* Binary analysis
-* eBPF
-* Secure software development
-* Vulnerability research
-* Performance-focused programming
-
-Most of what I learn ends up becoming a small project or experiment here on GitHub.
-
----
-
-## 📊 GitHub
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=cyber-atharv&theme=tokyo-night&hide_border=true&area=true" width="96%" />
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=cyber-atharv&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyber-atharv&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-
-</div>
-
----
-
-## 💭 A Little More About Me
-
-I enjoy taking something complicated, breaking it down, understanding how it works, and then trying to build my own version of it.
-
-I'm still learning, so a lot of the projects here are experiments and learning projects. I use GitHub to document that journey and improve by building things.
-
----
-
-## 📫 Contact
-
-If you're interested in cybersecurity, systems programming, or just want to talk about a project, feel free to reach out.
-
-<div align="center">
-
-<a href="mailto:atharvhogade12@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://github.com/cyber-atharv">
-<img src="https://img.shields.io/badge/GitHub-cyber--atharv-181717?style=for-the-badge&logo=github" />
-</a>
-
-<br><br>
-
-⭐ Thanks for visiting my profile!
-
-</div>
+```text
+Linux internals
+Networking
+Reverse engineering
+Binary analysis
+eBPF
+Security engineering
+Vulnerability research
+Systems programming
