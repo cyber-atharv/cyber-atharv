@@ -192,3 +192,79 @@ eBPF
 Security engineering
 Vulnerability research
 Systems programming
+### 🐧 linux-ebpf-security-tracer
+
+<a href="https://github.com/cyber-atharv/linux-ebpf-security-tracer">
+  Linux security monitoring with eBPF
+</a>
+
+I'm using this to learn more about Linux,
+kernel events, and system monitoring.
+
+**Tech:** C · eBPF · Go · Linux
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🛡️ api-rate-limiter
+
+<a href="https://github.com/cyber-atharv/api-rate-limiter">
+  API rate limiting and abuse protection
+</a>
+
+A project where I experiment with different
+rate-limiting algorithms and Redis.
+
+**Tech:** Python · FastAPI · Redis
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## 📚 What I'm Learning
+
+Right now I'm spending time learning more about:
+
+```text
+Linux internals
+Networking
+Reverse engineering
+Binary analysis
+eBPF
+Security engineering
+Vulnerability research
+Systems programming
+```
+
+---
+
+## 📈 Building in Public
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=cyber-atharv&theme=tokyo-night&hide_border=true&area=true" width="96%" />
+
+</div>
+
+**I use GitHub as my learning log**.
+
+Most of the green squares come from building security tools, experimenting with
+systems programming, fixing things, and trying out ideas that I find interesting.
+
+Some projects are small experiments, while others grow into larger tools.
+
+The goal is simple: **keep learning, keep building, and keep improving.**
+
+<br>
+
+<div align="center">
+
+<sub>
+Every commit is another experiment, project, bug fix, or something new I'm learning.
+</sub>
+
+</div>
