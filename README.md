@@ -192,52 +192,6 @@ eBPF
 Security engineering
 Vulnerability research
 Systems programming
-### 🐧 linux-ebpf-security-tracer
-
-<a href="https://github.com/cyber-atharv/linux-ebpf-security-tracer">
-  Linux security monitoring with eBPF
-</a>
-
-I'm using this to learn more about Linux,
-kernel events, and system monitoring.
-
-**Tech:** C · eBPF · Go · Linux
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🛡️ api-rate-limiter
-
-<a href="https://github.com/cyber-atharv/api-rate-limiter">
-  API rate limiting and abuse protection
-</a>
-
-A project where I experiment with different
-rate-limiting algorithms and Redis.
-
-**Tech:** Python · FastAPI · Redis
-
-</td>
-
-</tr>
-</table>
-
----
-
-## 📚 What I'm Learning
-
-Right now I'm spending time learning more about:
-
-```text
-Linux internals
-Networking
-Reverse engineering
-Binary analysis
-eBPF
-Security engineering
-Vulnerability research
-Systems programming
 ```
 
 ---
